@@ -40,7 +40,7 @@ It allows customers to select items, specify quantities, automatically calculate
 
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/Screenshorts/screenshot2.png)
-![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot3.png)
+![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/ScrrenShorts/screenshot3.png)
 
 🛠️ Technologies Used
 * **HTML5** – Structure
