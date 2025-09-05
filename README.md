@@ -10,10 +10,13 @@ It allows customers to select items, specify quantities, automatically calculate
 - ✅ Generate a clean receipt with customer name and date  
 - ✅ Responsive and user-friendly UI  
 
-## 📂 Project Structure
+📂 Project Structure
 ├── templates/
-│   ├── supermarket.html   # Main bill generator page
-│   ├── super.html         # Alternate styled version with background
+
+     ├── supermarket.html   # Main bill generator page
+
+     ├── super.html         # Alternate styled version with background
+
 ├── super.jpeg             # Demo image / background
 
 🚀 How to Run
