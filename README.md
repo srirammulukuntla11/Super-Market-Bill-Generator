@@ -11,6 +11,7 @@ It allows customers to select items, specify quantities, automatically calculate
 - ✅ Responsive and user-friendly UI  
 
 📂 Project Structure
+
 ├── templates/
 
      ├── supermarket.html   # Main bill generator page
