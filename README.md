@@ -39,7 +39,7 @@ It allows customers to select items, specify quantities, automatically calculate
 ### Generated Receipt Example
 
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot1.png)
-![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot2.png)
+![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/Screenshorts/screenshot2.png)
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot3.png)
 
 🛠️ Technologies Used
