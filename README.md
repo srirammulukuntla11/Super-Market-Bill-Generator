@@ -13,28 +13,31 @@ It allows customers to select items, specify quantities, automatically calculate
 📂 Project Structure
 
 ├── templates/
-
-     ├── supermarket.html   # Main bill generator page
-
-     ├── super.html         # Alternate styled version with background
-
+│   ├── supermarket.html   # Main bill generator page
+│   ├── super.html         # Alternate styled version with background
 ├── super.jpeg             # Demo image / background
+├── screenshots/
+│   ├── screenshot.png     # Main billing page screenshot (placeholder)
+│   ├── screenshot2.png    # Receipt page screenshot (placeholder)
 
 🚀 How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Super-Market-Bill-Generator.git
-````
+```
 2. Open `supermarket.html` or `super.html` in a browser.
 3. Enter your name, select items, and click **Generate Receipt**.
 
 🖼️ Screenshots
+📌 *Upload your screenshots into the `screenshots/` folder with the names below to make them visible.*
+
 ### Main Billing Page
-![Screenshot 1](https://github.com/srirammulukuntla11/Super-Market-Bill-Generator/blob/main/screenshot.png)
+
+![Screenshot 1](/screenshots/screenshot.png)
 
 ### Generated Receipt Example
-![Screenshot 2](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/ss2.png)
 
+![Screenshot 2](/screenshots/screenshot2.png)
 
 🛠️ Technologies Used
 * **HTML5** – Structure
