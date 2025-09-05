@@ -38,11 +38,11 @@ It allows customers to select items, specify quantities, automatically calculate
 
 ### Main Billing Page
 
-![Screenshot 1](/screenshots/screenshot.png)
+![Screenshot 1](screenshot.png)
 
 ### Generated Receipt Example
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 
 🛠️ Technologies Used
 * **HTML5** – Structure
