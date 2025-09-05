@@ -38,7 +38,7 @@ It allows customers to select items, specify quantities, automatically calculate
 
 ### Main Billing Page
 
-![Screenshot 1](screenshot.png)
+![Screenshot 1](ss.png)
 
 ### Generated Receipt Example
 
