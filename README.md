@@ -28,13 +28,6 @@ It allows customers to select items, specify quantities, automatically calculate
 2. Open `supermarket.html` or `super.html` in a browser.
 3. Enter your name, select items, and click **Generate Receipt**.
 
-🖼️ Screenshots
-
-![Screenshot 1](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot.png)
-![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot1.png)
-![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot2.png)
-![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot3.png)
-
 🛠️ Technologies Used
 * **HTML5** – Structure
 * **CSS3** – Styling
