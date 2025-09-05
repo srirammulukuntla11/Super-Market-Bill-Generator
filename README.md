@@ -19,8 +19,6 @@ It allows customers to select items, specify quantities, automatically calculate
 │   ├── supermarket.html   # Main bill generator page
 │   ├── super.html         # Alternate styled version with background
 ├── super.jpeg             # Demo image / background
-├── screenshot.png         # Main billing page screenshot
-├── screenshot1.png        # Receipt page screenshot
 
 🚀 How to Run
 1. Clone the repository:
@@ -32,12 +30,7 @@ It allows customers to select items, specify quantities, automatically calculate
 
 🖼️ Screenshots
 
-### Main Billing Page
-
 ![Screenshot 1](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot.png)
-
-### Generated Receipt Example
-
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot2.png)
 ![Screenshot 2](https://raw.githubusercontent.com/srirammulukuntla11/Super-Market-Bill-Generator/main/screenshot3.png)
