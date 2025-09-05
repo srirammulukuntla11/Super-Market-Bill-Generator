@@ -14,9 +14,9 @@ It allows customers to select items, specify quantities, automatically calculate
 
 ├── templates/
 
-│   ├── supermarket.html   # Main bill generator page
+ ├── supermarket.html   # Main bill generator page
 
-│   ├── super.html         # Alternate styled version with background
+ ├── super.html         # Alternate styled version with background
 
 ├── super.jpeg             # Demo image / background
 
