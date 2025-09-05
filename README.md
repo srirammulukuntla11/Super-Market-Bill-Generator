@@ -31,7 +31,7 @@ It allows customers to select items, specify quantities, automatically calculate
 🖼️ Screenshots
 ### Main Billing Page
 
-![Screenshot 1](https://github.com/srirammulukuntla11/Super-Market-Bill-Generator/blob/main/screenshot.png)
+![Screenshot 1](screenshot.png)
 ![Screenshot 2](screenshot1.png)
 
 ### Generated Receipt Example
