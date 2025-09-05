@@ -13,12 +13,17 @@ It allows customers to select items, specify quantities, automatically calculate
 📂 Project Structure
 
 ├── templates/
-│   ├── supermarket.html   # Main bill generator page
-│   ├── super.html         # Alternate styled version with background
+
+   ├── supermarket.html   # Main bill generator page
+
+   ├── super.html         # Alternate styled version with background
+
 ├── super.jpeg             # Demo image / background
+
 ├── screenshots/
-│   ├── screenshot.png     # Main billing page screenshot (placeholder)
-│   ├── screenshot2.png    # Receipt page screenshot (placeholder)
+   ├── screenshot.png     # Main billing page screenshot (placeholder)
+
+   ├── screenshot2.png    # Receipt page screenshot (placeholder)
 
 🚀 How to Run
 1. Clone the repository:
