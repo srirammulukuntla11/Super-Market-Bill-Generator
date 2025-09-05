@@ -20,11 +20,6 @@ It allows customers to select items, specify quantities, automatically calculate
 
 ├── super.jpeg             # Demo image / background
 
-├── screenshots/
-   ├── screenshot.png     # Main billing page screenshot (placeholder)
-
-   ├── screenshot2.png    # Receipt page screenshot (placeholder)
-
 🚀 How to Run
 1. Clone the repository:
    ```bash
